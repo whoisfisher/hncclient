@@ -4,9 +4,7 @@ import (
 	"context"
 	"fmt"
 	"github.com/pkg/errors"
-	"github.com/whoisfisher/hncclient"
 	"github.com/whoisfisher/hncclient/versioned"
-	"github.com/whoisfisher/hncclient/versioned/scheme"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/client-go/rest"
 )
@@ -47,7 +45,7 @@ func getMonitorClient(clusterName string) (*versioned.Clientset, error) {
 }
 
 func main() {
-	hncclient.AddToScheme(scheme.Scheme)
+	//hncclient.AddToScheme(scheme.Scheme)
 	client, err := getMonitorClient("mm")
 	if err != nil {
 		errMsg := fmt.Sprintf("====%s", err.Error())

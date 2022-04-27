@@ -5,51 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33294337-d2fd-409c-bc08-c0e4331314b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/groupversion_info.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/informers/externalversions/factory.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/informers/externalversions/generic.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/informers/externalversions/hnc/interface.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/informers/externalversions/hnc/v1alpha2/hierarchy_types.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/informers/externalversions/hnc/v1alpha2/hnc_config.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/informers/externalversions/hnc/v1alpha2/interface.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/informers/externalversions/hnc/v1alpha2/subnamespace_anchor.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/informers/externalversions/internalinterfaces/factory_interfaces.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listers/hnc/v1alpha2/generated_expansion.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listers/hnc/v1alpha2/hierarchy_types.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listers/hnc/v1alpha2/hnc_config.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listers/hnc/v1alpha2/subnamespace_anchor.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/register.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned/clientset.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned/fake/clientset_generated.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned/fake/doc.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned/fake/register.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned/scheme/doc.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned/scheme/register.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned/typed/hnc/v1alpha2/doc.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned/typed/hnc/v1alpha2/fake/doc.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned/typed/hnc/v1alpha2/fake/fake_hierarchy_types.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned/typed/hnc/v1alpha2/fake/fake_hnc_client.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned/typed/hnc/v1alpha2/fake/fake_hnc_config.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned/typed/hnc/v1alpha2/fake/fake_subnamespace_anchor.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned/typed/hnc/v1alpha2/generated_expansion.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned/typed/hnc/v1alpha2/hierarchy_types.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned/typed/hnc/v1alpha2/hnc_client.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned/typed/hnc/v1alpha2/hnc_config.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned/typed/hnc/v1alpha2/subnamespace_anchor.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/types/v1alpha1/project.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/types/v1alpha1/register.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/types/v1alpha1/zz_generated.deepcopy.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clientset/v1alpha1/api.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clientset/v1alpha1/projects.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/informer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kubernetes/crd.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kubernetes/project.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
